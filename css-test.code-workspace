@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"CSSNavigation.excludeGlobPatterns": [
+			"**/node_modules/**",
+			"**/bower_components/**",
+			"**/vendor/**",
+			"**/coverage/**",
+			"**/dist/**"
+		]
+	}
+}
